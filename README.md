@@ -1,3 +1,3 @@
-Chatrooms using [socket.io](https://https://socket.io/)
+Chatrooms using [socket.io](https://socket.io/)
 
-#### ashwinkanchana-chat.herokuapp.com
+#### [Check it out on Heroku](https://ashwinkanchana-chat.herokuapp.com/)
